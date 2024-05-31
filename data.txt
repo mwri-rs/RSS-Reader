@@ -1,0 +1,2 @@
+Julia Silge;https://juliasilge.com/;https://juliasilge.com/index.xml
+Cay Horstmann's Unblog;https://horstmann.com/unblog/;https://horstmann.com/unblog/rss.xml
